@@ -3,9 +3,7 @@ pylenium.io
 
 1. Install pyleniumio
 pip install pyleniumio
-
----or---
-
+or
 pipenv install pyleniumio
 
 
